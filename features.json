@@ -12,7 +12,7 @@
   "view-file-mode": false,
   "view-data-file-mode": false,
   "workbook-file-mode": true,
-  "data-apps": false,
+  "data-apps": true,
   "view-all-data": false,
   "skills-over-mcp": false,
   "authoring-with-slack": false,
